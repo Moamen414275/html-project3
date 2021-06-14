@@ -54,6 +54,7 @@
 @media screen and (max-width:650px){
     .logo img{
         width: 120px;
+        margn-top: 20px;
     }
 }
 @media screen and (max-width:1400px){
